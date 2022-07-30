@@ -1,2 +1,8 @@
 # Streamer.Bot-DeathCounter
 Death Counter for Streamer.Bot
+
+To Import Code to streamer.bot, just right click on the Actions List, under the Actions tab and click Import. Download the file(DeathcounterImportFile.txt) then just click and drag the file from a file explorer window right into the import string area. A bunch of what looks like random text will show up and then other information will show up. Then just click Import.
+
+You will have to make commands in streamer.bot to control this. Make a command with the command !deaths and use the action "DeathCounter-Current". Then make a command for !deathreset and use the action "DeathCounter-Reset".
+
+If you have any questions, join the discord! https://discord.gg/Vwapq3V
